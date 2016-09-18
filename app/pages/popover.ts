@@ -12,7 +12,7 @@ import {Component} from '@angular/core';
 export class PopoverReport
 {
     constructor(
-        private alertCtrl:AlertController
+        public alertCtrl:AlertController
     ){}
     
     violation()
