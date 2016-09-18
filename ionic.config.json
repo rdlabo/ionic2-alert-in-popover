@@ -1,6 +1,5 @@
 {
-  "name": "ionic2-app-base",
+  "name": "ionic2-alert-in-popover",
   "app_id": "",
-  "typescript": true,
   "v2": true
 }
